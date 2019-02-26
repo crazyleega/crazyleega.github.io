@@ -8,7 +8,7 @@ logo:               'assets/img/leega.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://crazyleega.github.io/Moon
+url:                https://crazyleega.github.io/
 
 # Jekyll
 permalink:          /:title/
