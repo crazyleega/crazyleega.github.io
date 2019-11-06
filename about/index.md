@@ -1,37 +1,23 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: 关于
+tags: [about, me]
+date: 2019-11-04
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+## 邓力佳
+* 出生于1992/03，江西南昌人，现居住在深圳宝安。做过2年Java，4年全栈
+* 性别男，爱好女
+* 乐观，积极向上。团队意识强。  
+* 喜欢看NBA，但是平常不打篮球。喜欢跑步，但是呼吸节奏混乱。
+* 喜欢FPS和RPG游戏。
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
 
-## Preview
-
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+## 技能
+* Web开发: JS/ NodeJs/ Java/ Python   
+* Web框架: Meteor/ Express/ Koa   
+* 前端框架: Bootstrap/ AngularJS/ Vue/ Ionic   
+* 工具：Docker/ Webpack/ Grunt/ SCSS/ Cordova  
+* 数据库相关: MongoDB/ MySQL/ Oracle/ Sql server   
+* 云和开放平台： AWS/ Leancloud/ Google Analytics/ 七牛/ 微信公众号开发/ 微信小程序开发/    
